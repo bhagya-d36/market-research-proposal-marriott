@@ -1,5 +1,5 @@
 # Market Research Proposal
-This repository contains the Market Research Proposal for Marriott International, developed as part of the ST3188 (Statistical Methods for Market Research) module at the University of London, LSE. The proposal, authored by student number 220639927, aims to provide actionable insights to enhance Marriott's guest experiences and market position.
+This repository contains the Market Research Proposal for Marriott International, developed as part of the ST3188 (Statistical Methods for Market Research) module at the University of London, LSE. The proposal aims to provide actionable insights to enhance Marriott's guest experiences and market position.
 
 ## Overview
 The document includes a comprehensive analysis of Marriott International's business objectives, research aims, and methodologies to address marketing decision problems. It covers guest preferences, travel trends, sustainability impacts, and the effectiveness of the Marriott Bonvoy loyalty program.
